@@ -1,0 +1,1 @@
+swap = uncurry (flip (,))
